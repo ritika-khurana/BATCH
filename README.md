@@ -1,2 +1,2 @@
 # BATCH
-batch-zbgf-6mobgkwq2-ritika-khuranas-projects.vercel.app
+(https://vercel.com/ritika-khuranas-projects/batch-zbgf)
